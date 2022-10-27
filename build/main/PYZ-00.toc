@@ -16,6 +16,14 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
    'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'PYMODULE'),
   ('contextlib',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
@@ -47,6 +55,10 @@
   ('ntpath',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
    'PYMODULE'),
   ('lzma',
    'C:\\Users\\Pouya '
@@ -148,41 +160,101 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
    'PYMODULE'),
-  ('email.feedparser',
+  ('random',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
    'PYMODULE'),
-  ('email.message',
+  ('statistics',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
    'PYMODULE'),
-  ('email.policy',
+  ('decimal',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
    'PYMODULE'),
-  ('email.contentmanager',
+  ('_pydecimal',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
    'PYMODULE'),
-  ('email.quoprimime',
+  ('contextvars',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
    'PYMODULE'),
-  ('email.headerregistry',
+  ('fractions',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
    'PYMODULE'),
-  ('email.iterators',
+  ('numbers',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
    'PYMODULE'),
-  ('email.generator',
+  ('hashlib',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
    'PYMODULE'),
-  ('email._encoded_words',
+  ('logging',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
    'PYMODULE'),
   ('base64',
    'C:\\Users\\Pouya '
@@ -196,101 +268,93 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
    'PYMODULE'),
-  ('quopri',
+  ('asyncio.proactor_events',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\proactor_events.py',
    'PYMODULE'),
-  ('uu',
+  ('asyncio.base_subprocess',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_subprocess.py',
    'PYMODULE'),
-  ('optparse',
+  ('asyncio.threads',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\threads.py',
    'PYMODULE'),
-  ('textwrap',
+  ('asyncio.subprocess',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\subprocess.py',
    'PYMODULE'),
-  ('email._header_value_parser',
+  ('asyncio.streams',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\streams.py',
    'PYMODULE'),
-  ('email.header',
+  ('asyncio.queues',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\queues.py',
    'PYMODULE'),
-  ('email.base64mime',
+  ('asyncio.runners',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\runners.py',
    'PYMODULE'),
-  ('email.charset',
+  ('asyncio.events',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\events.py',
    'PYMODULE'),
-  ('email.encoders',
+  ('asyncio.base_events',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_events.py',
    'PYMODULE'),
-  ('email.errors',
+  ('concurrent.futures',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
    'PYMODULE'),
-  ('csv',
+  ('concurrent.futures.thread',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
    'PYMODULE'),
-  ('importlib.abc',
+  ('queue',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
    'PYMODULE'),
-  ('typing',
+  ('concurrent.futures.process',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
    'PYMODULE'),
-  ('importlib._bootstrap',
+  ('multiprocessing.queues',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
    'PYMODULE'),
-  ('argparse',
+  ('multiprocessing.synchronize',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
    'PYMODULE'),
-  ('token',
+  ('multiprocessing.heap',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\token.py',
-   'PYMODULE'),
-  ('tokenize',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tokenize.py',
-   'PYMODULE'),
-  ('importlib.machinery',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
-   'PYMODULE'),
-  ('dis',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
-   'PYMODULE'),
-  ('opcode',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
-   'PYMODULE'),
-  ('ast',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
-   'PYMODULE'),
-  ('multiprocessing.popen_spawn_posix',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
    'PYMODULE'),
   ('multiprocessing.resource_tracker',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_tracker.py',
    'PYMODULE'),
-  ('signal',
+  ('multiprocessing.spawn',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
    'PYMODULE'),
   ('multiprocessing.util',
    'C:\\Users\\Pouya '
@@ -300,13 +364,77 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\forkserver.py',
    'PYMODULE'),
-  ('multiprocessing.connection',
+  ('multiprocessing.context',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
    'PYMODULE'),
   ('multiprocessing.resource_sharer',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
    'PYMODULE'),
   ('xmlrpc.client',
    'C:\\Users\\Pouya '
@@ -372,10 +500,6 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\__init__.py',
    'PYMODULE'),
-  ('ssl',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
-   'PYMODULE'),
   ('urllib.response',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\response.py',
@@ -383,14 +507,6 @@
   ('urllib.error',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\error.py',
-   'PYMODULE'),
-  ('hashlib',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
-   'PYMODULE'),
-  ('bisect',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
    'PYMODULE'),
   ('xml.sax',
    'C:\\Users\\Pouya '
@@ -412,141 +528,57 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\client.py',
    'PYMODULE'),
-  ('decimal',
+  ('email.message',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
    'PYMODULE'),
-  ('_pydecimal',
+  ('email.policy',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
    'PYMODULE'),
-  ('contextvars',
+  ('email.contentmanager',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
    'PYMODULE'),
-  ('numbers',
+  ('email.quoprimime',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
    'PYMODULE'),
-  ('hmac',
+  ('email.headerregistry',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
    'PYMODULE'),
-  ('tempfile',
+  ('email.iterators',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
    'PYMODULE'),
-  ('logging',
+  ('email.generator',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
    'PYMODULE'),
-  ('pickle',
+  ('email._encoded_words',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
    'PYMODULE'),
-  ('pprint',
+  ('quopri',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
    'PYMODULE'),
-  ('doctest',
+  ('uu',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\doctest.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
    'PYMODULE'),
-  ('unittest',
+  ('optparse',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\__init__.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
    'PYMODULE'),
-  ('unittest.async_case',
+  ('textwrap',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\async_case.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
    'PYMODULE'),
-  ('asyncio',
+  ('multiprocessing',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\__init__.py',
-   'PYMODULE'),
-  ('asyncio.unix_events',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\unix_events.py',
-   'PYMODULE'),
-  ('asyncio.log',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\log.py',
-   'PYMODULE'),
-  ('asyncio.windows_events',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_events.py',
-   'PYMODULE'),
-  ('asyncio.windows_utils',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_utils.py',
-   'PYMODULE'),
-  ('asyncio.selector_events',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\selector_events.py',
-   'PYMODULE'),
-  ('asyncio.proactor_events',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\proactor_events.py',
-   'PYMODULE'),
-  ('asyncio.base_subprocess',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_subprocess.py',
-   'PYMODULE'),
-  ('asyncio.threads',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\threads.py',
-   'PYMODULE'),
-  ('asyncio.subprocess',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\subprocess.py',
-   'PYMODULE'),
-  ('asyncio.streams',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\streams.py',
-   'PYMODULE'),
-  ('asyncio.queues',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\queues.py',
-   'PYMODULE'),
-  ('asyncio.runners',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\runners.py',
-   'PYMODULE'),
-  ('asyncio.events',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\events.py',
-   'PYMODULE'),
-  ('asyncio.base_events',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_events.py',
-   'PYMODULE'),
-  ('concurrent.futures',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
-   'PYMODULE'),
-  ('concurrent.futures.thread',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
-   'PYMODULE'),
-  ('queue',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
-   'PYMODULE'),
-  ('concurrent.futures.process',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
-   'PYMODULE'),
-  ('multiprocessing.queues',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
-   'PYMODULE'),
-  ('multiprocessing.synchronize',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
-   'PYMODULE'),
-  ('multiprocessing.heap',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
   ('concurrent.futures._base',
    'C:\\Users\\Pouya '
@@ -768,18 +800,6 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\plistlib.py',
    'PYMODULE'),
-  ('pkgutil',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
-   'PYMODULE'),
-  ('zipimport',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
-   'PYMODULE'),
-  ('runpy',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
-   'PYMODULE'),
   ('glob',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\glob.py',
@@ -812,92 +832,105 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
    'PYMODULE'),
-  ('multiprocessing.process',
+  ('bisect',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
    'PYMODULE'),
-  ('multiprocessing.context',
+  ('email.feedparser',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
    'PYMODULE'),
-  ('multiprocessing.popen_forkserver',
+  ('email._header_value_parser',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
    'PYMODULE'),
-  ('multiprocessing.sharedctypes',
+  ('email.header',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
    'PYMODULE'),
-  ('ctypes',
+  ('email.base64mime',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
    'PYMODULE'),
-  ('ctypes._endian',
+  ('email.charset',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
    'PYMODULE'),
-  ('multiprocessing.pool',
+  ('email.encoders',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
    'PYMODULE'),
-  ('multiprocessing.dummy',
+  ('email.errors',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
    'PYMODULE'),
-  ('multiprocessing.dummy.connection',
+  ('csv',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
    'PYMODULE'),
-  ('multiprocessing.managers',
+  ('importlib._bootstrap',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
    'PYMODULE'),
-  ('multiprocessing.shared_memory',
+  ('argparse',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
    'PYMODULE'),
-  ('secrets',
+  ('token',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\token.py',
    'PYMODULE'),
-  ('multiprocessing.reduction',
+  ('tokenize',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tokenize.py',
    'PYMODULE'),
-  ('multiprocessing.popen_fork',
+  ('importlib.machinery',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
    'PYMODULE'),
-  ('multiprocessing.popen_spawn_win32',
+  ('dis',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
    'PYMODULE'),
-  ('subprocess',
+  ('opcode',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
    'PYMODULE'),
-  ('multiprocessing.spawn',
+  ('ast',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
-   'PYMODULE'),
-  ('multiprocessing',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
-   'PYMODULE'),
-  ('tracemalloc',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
-   'PYMODULE'),
-  ('stringprep',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
    'PYMODULE'),
   ('_py_abc',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
    'PYMODULE'),
-  ('res_rc',
-   'C:\\Users\\Pouya Hosseinniya\\PycharmProjects\\pythonProject2\\res_rc.py',
+  ('stringprep',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\os.py',
+   'PYMODULE'),
+  ('DB_Controller',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\PycharmProjects\\pythonProject2\\DB_Controller.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dbapi2.py',
    'PYMODULE'),
   ('clipboard',
    'C:\\Users\\Pouya '
@@ -911,39 +944,17 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\wintypes.py',
    'PYMODULE'),
+  ('Ui_Form',
+   'C:\\Users\\Pouya Hosseinniya\\PycharmProjects\\pythonProject2\\Ui_Form.py',
+   'PYMODULE'),
+  ('res_rc',
+   'C:\\Users\\Pouya Hosseinniya\\PycharmProjects\\pythonProject2\\res_rc.py',
+   'PYMODULE'),
+  ('PassGenerator',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\PycharmProjects\\pythonProject2\\PassGenerator.py',
+   'PYMODULE'),
   ('PyQt5',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\__init__.py',
-   'PYMODULE'),
-  ('string',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
-   'PYMODULE'),
-  ('random',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
-   'PYMODULE'),
-  ('statistics',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
-   'PYMODULE'),
-  ('fractions',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
-   'PYMODULE'),
-  ('os',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\os.py',
-   'PYMODULE'),
-  ('sqlite3',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\__init__.py',
-   'PYMODULE'),
-  ('sqlite3.dump',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dump.py',
-   'PYMODULE'),
-  ('sqlite3.dbapi2',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dbapi2.py',
    'PYMODULE')])

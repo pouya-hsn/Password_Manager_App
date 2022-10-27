@@ -65,7 +65,7 @@
  [],
  False,
  False,
- 1665134985,
+ 1666894721,
  [('runw.exe',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\runw.exe',

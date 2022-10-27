@@ -45,6 +45,14 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
    'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'PYMODULE'),
   ('contextlib',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
@@ -76,6 +84,10 @@
   ('ntpath',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
    'PYMODULE'),
   ('lzma',
    'C:\\Users\\Pouya '
@@ -177,41 +189,101 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
    'PYMODULE'),
-  ('email.feedparser',
+  ('random',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
    'PYMODULE'),
-  ('email.message',
+  ('statistics',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
    'PYMODULE'),
-  ('email.policy',
+  ('decimal',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
    'PYMODULE'),
-  ('email.contentmanager',
+  ('_pydecimal',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
    'PYMODULE'),
-  ('email.quoprimime',
+  ('contextvars',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
    'PYMODULE'),
-  ('email.headerregistry',
+  ('fractions',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
    'PYMODULE'),
-  ('email.iterators',
+  ('numbers',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
    'PYMODULE'),
-  ('email.generator',
+  ('hashlib',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
    'PYMODULE'),
-  ('email._encoded_words',
+  ('logging',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
    'PYMODULE'),
   ('base64',
    'C:\\Users\\Pouya '
@@ -225,101 +297,93 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
    'PYMODULE'),
-  ('quopri',
+  ('asyncio.proactor_events',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\proactor_events.py',
    'PYMODULE'),
-  ('uu',
+  ('asyncio.base_subprocess',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_subprocess.py',
    'PYMODULE'),
-  ('optparse',
+  ('asyncio.threads',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\threads.py',
    'PYMODULE'),
-  ('textwrap',
+  ('asyncio.subprocess',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\subprocess.py',
    'PYMODULE'),
-  ('email._header_value_parser',
+  ('asyncio.streams',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\streams.py',
    'PYMODULE'),
-  ('email.header',
+  ('asyncio.queues',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\queues.py',
    'PYMODULE'),
-  ('email.base64mime',
+  ('asyncio.runners',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\runners.py',
    'PYMODULE'),
-  ('email.charset',
+  ('asyncio.events',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\events.py',
    'PYMODULE'),
-  ('email.encoders',
+  ('asyncio.base_events',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_events.py',
    'PYMODULE'),
-  ('email.errors',
+  ('concurrent.futures',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
    'PYMODULE'),
-  ('csv',
+  ('concurrent.futures.thread',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
    'PYMODULE'),
-  ('importlib.abc',
+  ('queue',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
    'PYMODULE'),
-  ('typing',
+  ('concurrent.futures.process',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
    'PYMODULE'),
-  ('importlib._bootstrap',
+  ('multiprocessing.queues',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
    'PYMODULE'),
-  ('argparse',
+  ('multiprocessing.synchronize',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
    'PYMODULE'),
-  ('token',
+  ('multiprocessing.heap',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\token.py',
-   'PYMODULE'),
-  ('tokenize',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tokenize.py',
-   'PYMODULE'),
-  ('importlib.machinery',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
-   'PYMODULE'),
-  ('dis',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
-   'PYMODULE'),
-  ('opcode',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
-   'PYMODULE'),
-  ('ast',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
-   'PYMODULE'),
-  ('multiprocessing.popen_spawn_posix',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
    'PYMODULE'),
   ('multiprocessing.resource_tracker',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_tracker.py',
    'PYMODULE'),
-  ('signal',
+  ('multiprocessing.spawn',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
    'PYMODULE'),
   ('multiprocessing.util',
    'C:\\Users\\Pouya '
@@ -329,13 +393,77 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\forkserver.py',
    'PYMODULE'),
-  ('multiprocessing.connection',
+  ('multiprocessing.context',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
    'PYMODULE'),
   ('multiprocessing.resource_sharer',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
    'PYMODULE'),
   ('xmlrpc.client',
    'C:\\Users\\Pouya '
@@ -401,10 +529,6 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\__init__.py',
    'PYMODULE'),
-  ('ssl',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
-   'PYMODULE'),
   ('urllib.response',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\response.py',
@@ -412,14 +536,6 @@
   ('urllib.error',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\error.py',
-   'PYMODULE'),
-  ('hashlib',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
-   'PYMODULE'),
-  ('bisect',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
    'PYMODULE'),
   ('xml.sax',
    'C:\\Users\\Pouya '
@@ -441,141 +557,57 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\client.py',
    'PYMODULE'),
-  ('decimal',
+  ('email.message',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
    'PYMODULE'),
-  ('_pydecimal',
+  ('email.policy',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
    'PYMODULE'),
-  ('contextvars',
+  ('email.contentmanager',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
    'PYMODULE'),
-  ('numbers',
+  ('email.quoprimime',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
    'PYMODULE'),
-  ('hmac',
+  ('email.headerregistry',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
    'PYMODULE'),
-  ('tempfile',
+  ('email.iterators',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
    'PYMODULE'),
-  ('logging',
+  ('email.generator',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
    'PYMODULE'),
-  ('pickle',
+  ('email._encoded_words',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
    'PYMODULE'),
-  ('pprint',
+  ('quopri',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
    'PYMODULE'),
-  ('doctest',
+  ('uu',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\doctest.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
    'PYMODULE'),
-  ('unittest',
+  ('optparse',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\__init__.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
    'PYMODULE'),
-  ('unittest.async_case',
+  ('textwrap',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\async_case.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
    'PYMODULE'),
-  ('asyncio',
+  ('multiprocessing',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\__init__.py',
-   'PYMODULE'),
-  ('asyncio.unix_events',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\unix_events.py',
-   'PYMODULE'),
-  ('asyncio.log',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\log.py',
-   'PYMODULE'),
-  ('asyncio.windows_events',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_events.py',
-   'PYMODULE'),
-  ('asyncio.windows_utils',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_utils.py',
-   'PYMODULE'),
-  ('asyncio.selector_events',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\selector_events.py',
-   'PYMODULE'),
-  ('asyncio.proactor_events',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\proactor_events.py',
-   'PYMODULE'),
-  ('asyncio.base_subprocess',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_subprocess.py',
-   'PYMODULE'),
-  ('asyncio.threads',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\threads.py',
-   'PYMODULE'),
-  ('asyncio.subprocess',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\subprocess.py',
-   'PYMODULE'),
-  ('asyncio.streams',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\streams.py',
-   'PYMODULE'),
-  ('asyncio.queues',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\queues.py',
-   'PYMODULE'),
-  ('asyncio.runners',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\runners.py',
-   'PYMODULE'),
-  ('asyncio.events',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\events.py',
-   'PYMODULE'),
-  ('asyncio.base_events',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_events.py',
-   'PYMODULE'),
-  ('concurrent.futures',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
-   'PYMODULE'),
-  ('concurrent.futures.thread',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
-   'PYMODULE'),
-  ('queue',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
-   'PYMODULE'),
-  ('concurrent.futures.process',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
-   'PYMODULE'),
-  ('multiprocessing.queues',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
-   'PYMODULE'),
-  ('multiprocessing.synchronize',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
-   'PYMODULE'),
-  ('multiprocessing.heap',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
   ('concurrent.futures._base',
    'C:\\Users\\Pouya '
@@ -797,18 +829,6 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\plistlib.py',
    'PYMODULE'),
-  ('pkgutil',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
-   'PYMODULE'),
-  ('zipimport',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
-   'PYMODULE'),
-  ('runpy',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
-   'PYMODULE'),
   ('glob',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\glob.py',
@@ -841,92 +861,105 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
    'PYMODULE'),
-  ('multiprocessing.process',
+  ('bisect',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
    'PYMODULE'),
-  ('multiprocessing.context',
+  ('email.feedparser',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
    'PYMODULE'),
-  ('multiprocessing.popen_forkserver',
+  ('email._header_value_parser',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
    'PYMODULE'),
-  ('multiprocessing.sharedctypes',
+  ('email.header',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
    'PYMODULE'),
-  ('ctypes',
+  ('email.base64mime',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
    'PYMODULE'),
-  ('ctypes._endian',
+  ('email.charset',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
    'PYMODULE'),
-  ('multiprocessing.pool',
+  ('email.encoders',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
    'PYMODULE'),
-  ('multiprocessing.dummy',
+  ('email.errors',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
    'PYMODULE'),
-  ('multiprocessing.dummy.connection',
+  ('csv',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
    'PYMODULE'),
-  ('multiprocessing.managers',
+  ('importlib._bootstrap',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
    'PYMODULE'),
-  ('multiprocessing.shared_memory',
+  ('argparse',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
    'PYMODULE'),
-  ('secrets',
+  ('token',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\token.py',
    'PYMODULE'),
-  ('multiprocessing.reduction',
+  ('tokenize',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tokenize.py',
    'PYMODULE'),
-  ('multiprocessing.popen_fork',
+  ('importlib.machinery',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
    'PYMODULE'),
-  ('multiprocessing.popen_spawn_win32',
+  ('dis',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
    'PYMODULE'),
-  ('subprocess',
+  ('opcode',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
    'PYMODULE'),
-  ('multiprocessing.spawn',
+  ('ast',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
-   'PYMODULE'),
-  ('multiprocessing',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
-   'PYMODULE'),
-  ('tracemalloc',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
-   'PYMODULE'),
-  ('stringprep',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
    'PYMODULE'),
   ('_py_abc',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
    'PYMODULE'),
-  ('res_rc',
-   'C:\\Users\\Pouya Hosseinniya\\PycharmProjects\\pythonProject2\\res_rc.py',
+  ('stringprep',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\os.py',
+   'PYMODULE'),
+  ('DB_Controller',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\PycharmProjects\\pythonProject2\\DB_Controller.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dbapi2.py',
    'PYMODULE'),
   ('clipboard',
    'C:\\Users\\Pouya '
@@ -940,128 +973,94 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\wintypes.py',
    'PYMODULE'),
+  ('Ui_Form',
+   'C:\\Users\\Pouya Hosseinniya\\PycharmProjects\\pythonProject2\\Ui_Form.py',
+   'PYMODULE'),
+  ('res_rc',
+   'C:\\Users\\Pouya Hosseinniya\\PycharmProjects\\pythonProject2\\res_rc.py',
+   'PYMODULE'),
+  ('PassGenerator',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\PycharmProjects\\pythonProject2\\PassGenerator.py',
+   'PYMODULE'),
   ('PyQt5',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\__init__.py',
-   'PYMODULE'),
-  ('string',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
-   'PYMODULE'),
-  ('random',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
-   'PYMODULE'),
-  ('statistics',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
-   'PYMODULE'),
-  ('fractions',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
-   'PYMODULE'),
-  ('os',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\os.py',
-   'PYMODULE'),
-  ('sqlite3',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\__init__.py',
-   'PYMODULE'),
-  ('sqlite3.dump',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dump.py',
-   'PYMODULE'),
-  ('sqlite3.dbapi2',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dbapi2.py',
    'PYMODULE')],
- [('api-ms-win-crt-locale-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
-   'BINARY'),
-  ('VCRUNTIME140.dll',
+ [('VCRUNTIME140.dll',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140.dll',
-   'BINARY'),
-  ('api-ms-win-crt-runtime-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-heap-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-math-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-math-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-stdio-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
    'BINARY'),
   ('python39.dll',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\python39.dll',
    'BINARY'),
-  ('ucrtbase.dll',
-   'C:\\Program Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\ucrtbase.dll',
-   'BINARY'),
-  ('api-ms-win-crt-convert-l1-1-0.dll',
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-string-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-conio-l1-1-0.dll',
+  ('api-ms-win-crt-convert-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-process-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-filesystem-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-environment-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
    'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
   ('api-ms-win-crt-time-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-time-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-synch-l1-2-0.dll',
+  ('api-ms-win-crt-conio-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-synch-l1-2-0.dll',
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-interlocked-l1-1-0.dll',
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\ucrtbase.dll',
    'BINARY'),
   ('api-ms-win-core-file-l2-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-file-l2-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+  ('api-ms-win-core-synch-l1-2-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-synch-l1-2-0.dll',
    'BINARY'),
-  ('api-ms-win-core-file-l1-1-0.dll',
+  ('api-ms-win-core-synch-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-synch-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-localization-l1-2-0.dll',
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-profile-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-debug-l1-1-0.dll',
    'C:\\Program '
@@ -1071,149 +1070,161 @@
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-1.dll',
+  ('api-ms-win-core-timezone-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
-   'BINARY'),
-  ('api-ms-win-core-synch-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-synch-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processenvironment-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-console-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-console-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-string-l1-1-0.dll',
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-timezone-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-namedpipe-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-file-l1-2-0.dll',
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-memory-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-datetime-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-sysinfo-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-util-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-heap-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-errorhandling-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-libraryloader-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
    'BINARY'),
-  ('libGLESv2.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\libGLESv2.dll',
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
    'BINARY'),
-  ('d3dcompiler_47.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-file-l1-1-0.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
    'BINARY'),
-  ('libEGL.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\libEGL.dll',
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+  ('libGLESv2.dll',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\libGLESv2.dll',
    'BINARY'),
   ('opengl32sw.dll',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\opengl32sw.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
    'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('d3dcompiler_47.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('libEGL.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\libEGL.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
   ('PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
    'BINARY'),
   ('_lzma',
    'C:\\Users\\Pouya '
@@ -1235,22 +1246,6 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_socket.pyd',
    'EXTENSION'),
-  ('_multiprocessing',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_multiprocessing.pyd',
-   'EXTENSION'),
-  ('pyexpat',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\pyexpat.pyd',
-   'EXTENSION'),
-  ('_ssl',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ssl.pyd',
-   'EXTENSION'),
-  ('_hashlib',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd',
-   'EXTENSION'),
   ('_decimal',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_decimal.pyd',
@@ -1258,6 +1253,10 @@
   ('_overlapped',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ssl.pyd',
    'EXTENSION'),
   ('_asyncio',
    'C:\\Users\\Pouya '
@@ -1270,6 +1269,22 @@
   ('_ctypes',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_sqlite3',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_sqlite3.pyd',
    'EXTENSION'),
   ('PyQt5.QtWidgets',
    'C:\\Users\\Pouya '
@@ -1287,25 +1302,13 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\sip.cp39-win_amd64.pyd',
    'EXTENSION'),
-  ('_sqlite3',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_sqlite3.pyd',
-   'EXTENSION'),
-  ('Qt5DBus.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5DBus.dll',
-   'BINARY'),
-  ('Qt5Core.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Core.dll',
-   'BINARY'),
   ('Qt5Gui.dll',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Gui.dll',
    'BINARY'),
-  ('Qt5Svg.dll',
+  ('Qt5Core.dll',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Core.dll',
    'BINARY'),
   ('MSVCP140.dll',
    'C:\\Users\\Pouya '
@@ -1315,17 +1318,13 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
    'BINARY'),
-  ('api-ms-win-crt-utility-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+  ('Qt5Network.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Network.dll',
    'BINARY'),
   ('Qt5Quick.dll',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Quick.dll',
-   'BINARY'),
-  ('Qt5Network.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Network.dll',
    'BINARY'),
   ('Qt5WebSockets.dll',
    'C:\\Users\\Pouya '
@@ -1335,25 +1334,37 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
    'BINARY'),
-  ('libssl-1_1.dll',
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('Qt5DBus.dll',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libssl-1_1.dll',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'BINARY'),
+  ('Qt5Svg.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Svg.dll',
    'BINARY'),
   ('libcrypto-1_1.dll',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libcrypto-1_1.dll',
    'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
   ('libffi-7.dll',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libffi-7.dll',
    'BINARY'),
-  ('python3.dll',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\python3.dll',
-   'BINARY'),
   ('sqlite3.dll',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\python3.dll',
    'BINARY'),
   ('MSVCP140_1.dll',
    'C:\\Users\\Pouya '
@@ -1373,41 +1384,73 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\PycharmProjects\\pythonProject2\\build\\main\\base_library.zip',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_de.qm',
+  ('PyQt5\\Qt5\\translations\\qtbase_ru.qm',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ru.qm',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+  ('PyQt5\\Qt5\\translations\\qtbase_ko.qm',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fr.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_he.qm',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_he.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_bg.qm',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_bg.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_da.qm',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ko.qm',
    'DATA'),
   ('PyQt5\\Qt5\\translations\\qtbase_tr.qm',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_tr.qm',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+  ('PyQt5\\Qt5\\translations\\qtbase_fr.qm',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_cs.qm',
    'DATA'),
   ('PyQt5\\Qt5\\translations\\qtbase_ja.qm',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ja.qm',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+  ('PyQt5\\Qt5\\translations\\qtbase_lv.qm',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'C:\\Users\\Pouya '
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_pl.qm',
    'DATA'),
   ('PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
    'C:\\Users\\Pouya '
@@ -1417,52 +1460,20 @@
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fi.qm',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+  ('PyQt5\\Qt5\\translations\\qtbase_bg.qm',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_gd.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_it.qm',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_it.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_pl.qm',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_pl.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_hu.qm',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_hu.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_cs.qm',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_bg.qm',
    'DATA'),
   ('PyQt5\\Qt5\\translations\\qtbase_sk.qm',
    'C:\\Users\\Pouya '
    'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_sk.qm',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+  ('PyQt5\\Qt5\\translations\\qtbase_ar.qm',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ar.qm',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_en.qm',
+  ('PyQt5\\Qt5\\translations\\qtbase_hu.qm',
    'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_en.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_lv.qm',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_lv.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_ca.qm',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ca.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_uk.qm',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_uk.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_es.qm',
-   'C:\\Users\\Pouya '
-   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'Hosseinniya\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_hu.qm',
    'DATA')],
  [])
